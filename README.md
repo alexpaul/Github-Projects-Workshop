@@ -27,3 +27,7 @@ I have been at Pursuit teaching iOS development for the past 3 years. Prior to P
 5. Credit to resources used. 
 6. Screenshots 
 7. Gif of application. 
+
+## Resources 
+
+[Top Web Developers to Follow]()
