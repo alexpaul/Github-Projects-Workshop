@@ -1,4 +1,4 @@
-# Github Projects Workshop
+# Github Portfolio Workshop
 
 ## About Me
 
