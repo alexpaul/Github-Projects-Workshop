@@ -4,13 +4,13 @@
 
 I have been at Pursuit teaching iOS development for the past 3 years. Prior to Pursuit I worked as an iOS developer at an App Agency in New York City called SWARM NYC. There I worked on small, mid size and larger scale apps. Github is the most important way employers are able to determine your level of experience and passion as a software engineer.
 
-## Certification Checklist 
+## 1. Certification Checklist 
 
 - [ ] Github profile photo.
 - [ ] Pinned projects of most up to date / interesting projects. (Snowman and Text Based Adventure if in module 1)
 - [ ] README's for all Pinned projects 
 
-## Objectives 
+## 2. Objectives 
 
 1. Update Pinned repos with most current and relevant work. 
 2. Create README's for all of your Pinned projects. 
@@ -18,7 +18,7 @@ I have been at Pursuit teaching iOS development for the past 3 years. Prior to P
 4. Star repos that were useful to you or that you're interested in exploring. 
 5. Create a README for your main Github profile that adds more value to your Github landing page. 
 
-## Basics of a README 
+## 3. Basics of a README 
 
 1. Description of the application. 
 2. Code snippet of the most challenging part or a part you were most proud of working on the project. 
@@ -28,7 +28,7 @@ I have been at Pursuit teaching iOS development for the past 3 years. Prior to P
 6. Screenshots of the application.
 7. A gif of an interesting part of the application. 
 
-## Adding a README to your Github Profile
+## 4. Adding a README to your Github Profile
 
 `alexpaul/alexpaul` is a special repository: its README.md will appear on your profile!
 
