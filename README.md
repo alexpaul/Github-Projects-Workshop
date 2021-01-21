@@ -40,3 +40,4 @@ I have been at Pursuit teaching iOS development for the past 3 years. Prior to P
 1. [Markdown Guide](https://www.markdownguide.org/)
 2. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 3. [Github - JavaScript Monthly Trending Developers](https://github.com/trending/developers/javascript?since=monthly)
+4. [How to create a Github Profiel README](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme)
