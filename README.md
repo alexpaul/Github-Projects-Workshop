@@ -10,7 +10,7 @@ As employers read your resume and continue on to explore your Github and project
 
 - [ ] Github profile photo.
 - [ ] Pinned projects of most up to date / interesting projects. (Snowman and Text Based Adventure if in module 1).
-- [ ] README's for all pinned projects (If someone else created the repo make sure to fork the repo then pin it). 
+- [ ] README's for all pinned projects (If someone else created the repo for your team make sure to fork the repo then pin it to your profile). 
 
 ## 2. Objectives 
 
