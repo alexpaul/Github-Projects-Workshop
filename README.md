@@ -6,7 +6,7 @@ I have been at Pursuit teaching iOS development for the past 3 years. Prior to P
 
 ## Certification Checklist 
 
-- [ ] Image associated with Github project.
+- [ ] Github profile photo.
 - [ ] Pinned projects of most up to date / interesting projects. (Snowman and Text Based Adventure if in module 1)
 - [ ] README's for all Pinned projects 
 
