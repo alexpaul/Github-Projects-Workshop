@@ -28,6 +28,11 @@ I have been at Pursuit teaching iOS development for the past 3 years. Prior to P
 6. Screenshots of the application.
 7. A gif of an interesting part of the application. 
 
+## Github README Profile 
+
+1. Create a repository with the same name as your Github username e.g my username is `alexpaul` so I would create a repo named `alexpaul`.
+2. Edit and add content to the newly created README so readers are able to get to know more about you.
+
 ## Resources 
 
 1. [Markdown Guide](https://www.markdownguide.org/)
