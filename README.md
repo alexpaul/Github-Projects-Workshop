@@ -24,6 +24,11 @@ As employers read your resume and continue on to explore your Github and project
 1. Description of the application. 
 2. Instructions needed to run the project. 
 3. Code snippet of the most challenging part or a part you were most proud of working on the project. 
+
+```javascript
+console.log('Code Snippet')
+```
+
 4. Names of collaborators if any and a description of their contribution to the project. 
 5. List of frameworks, third party libraries used on the project. 
 6. Credit to resources used, e.g StackOverflow article or Medium post. 
