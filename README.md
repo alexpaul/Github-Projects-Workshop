@@ -14,9 +14,7 @@ I have been at Pursuit teaching iOS development for the past 3 years. Prior to P
 
 1. Update Pinned repos with most current and relevant work. 
 2. Create README's for all of your Pinned projects. 
-3. Best way to grow as a developer is to view code from other credible developers. 
-4. Star repos that were useful to you or that you're interested in exploring. 
-5. Create a README for your main Github profile that adds more value to your Github landing page. 
+3. Create a README for your main Github profile that adds more value to your Github landing page. 
 
 ## 3. Basics of a README 
 
@@ -34,6 +32,12 @@ I have been at Pursuit teaching iOS development for the past 3 years. Prior to P
 
 1. Create a repository with the same name as your Github username e.g my username is `alexpaul` so I would create a repo named `alexpaul`.
 2. Edit and add content to the newly created README.
+
+## 5. Where to next 
+
+1. Best way to grow as a developer is to view code from other credible developers. 
+2. Star repos that were useful to you or that you're interested in exploring.
+3. Read up on open source and how to get started. [Open source guide](https://opensource.guide/)
 
 ## Resources 
 
