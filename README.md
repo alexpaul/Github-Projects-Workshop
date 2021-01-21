@@ -19,12 +19,13 @@ I have been at Pursuit teaching iOS development for the past 3 years. Prior to P
 ## 3. Basics of a README 
 
 1. Description of the application. 
-2. Code snippet of the most challenging part or a part you were most proud of working on the project. 
-3. Names of collaborators if any and a description of their contribution to the project. 
-4. List of frameworks, third party libraries used on the project. 
-5. Credit to resources used, e.g StackOverflow article or Medium post. 
-6. Screenshots of the application.
-7. A gif of an interesting part of the application. 
+2. Instructions needed to run the project. 
+3. Code snippet of the most challenging part or a part you were most proud of working on the project. 
+4. Names of collaborators if any and a description of their contribution to the project. 
+5. List of frameworks, third party libraries used on the project. 
+6. Credit to resources used, e.g StackOverflow article or Medium post. 
+7. Screenshots of the application.
+8. A gif of an interesting part of the application. 
 
 ## 4. Adding a README to your Github Profile
 
