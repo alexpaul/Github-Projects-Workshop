@@ -27,7 +27,7 @@ As employers read your resume and continue on to explore your Github and project
 5. List of frameworks, third party libraries used on the project. 
 6. Credit to resources used, e.g StackOverflow article or Medium post. 
 7. Screenshots of the application.
-8. A gif of an interesting part of the application. 
+8. A gif of an interesting part of the application, using an application like [GIPHY Capture](https://apps.apple.com/us/app/giphy-capture-the-gif-maker/id668208984?mt=12). 
 
 ## 4. Adding a README to your Github Profile
 
