@@ -2,7 +2,7 @@
 
 ## About Me
 
-I have been at Pursuit teaching iOS development for the past 3 years. Prior to Pursuit I worked as an iOS developer at an App Agency in New York City called SWARM NYC. There I worked on small, mid size and larger scale apps. Github is the most important way employers are able to determine your level of experience and passion as a software engineer.
+I have been at Pursuit teaching iOS development for the past 3 years. Prior to Pursuit I worked as an iOS developer at an App Agency in New York City called SWARM NYC. There I worked on small, mid size and larger scale apps. Github is the most important tools you can use to capture a potential employer's interest.
 
 ## 1. Certification Checklist 
 
