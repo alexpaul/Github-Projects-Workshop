@@ -9,6 +9,7 @@ I have been at Pursuit teaching iOS development for the past 3 years. Prior to P
 As employers read your resume and continue on to explore your Github and projects your goal is to make it shine and standout. Below we will get started with some Github must haves. 
 
 - [ ] Github profile photo.
+- [ ] Add bio.
 - [ ] Pinned projects of most up to date / interesting projects. (Snowman and Text Based Adventure if in module 1).
 - [ ] README's for all pinned projects (If someone else created the repo for your team make sure to fork the repo then pin it to your profile). 
 
