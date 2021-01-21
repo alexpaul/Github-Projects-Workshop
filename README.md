@@ -30,7 +30,7 @@ I have been at Pursuit teaching iOS development for the past 3 years. Prior to P
 
 ## 4. Adding a README to your Github Profile
 
-`alexpaul/alexpaul` is a special repository: its README.md will appear on your profile!
+`[alexpaul/alexpaul](https://github.com/alexpaul/alexpaul)` is a special repository: its README.md will appear on your profile!
 
 1. Create a repository with the same name as your Github username e.g my username is `alexpaul` so I would create a repo named `alexpaul`.
 2. Edit and add content to the newly created README.
