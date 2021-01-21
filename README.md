@@ -46,3 +46,4 @@ I have been at Pursuit teaching iOS development for the past 3 years. Prior to P
 2. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 3. [Github - JavaScript Monthly Trending Developers](https://github.com/trending/developers/javascript?since=monthly)
 4. [How to create a Github Profiel README](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme)
+5. [An Honest Guide to Building a Powerful Developer Portfolio](https://medium.com/better-programming/an-honest-guide-to-build-a-decent-and-powerful-developer-portfolio-2319f2cc2c19)
