@@ -32,3 +32,4 @@ I have been at Pursuit teaching iOS development for the past 3 years. Prior to P
 
 1. [Markdown Guide](https://www.markdownguide.org/)
 2. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+3. [JavaScript Monthly Trending Developers](https://github.com/trending/developers/javascript?since=monthly)
