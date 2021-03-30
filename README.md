@@ -1,10 +1,7 @@
 # Github Portfolio Workshop
 
-## About Me
 
-I have been at Pursuit teaching iOS development for the past 3 years. Prior to Pursuit I worked as an iOS developer at an App Agency in New York City called SWARM NYC. There I worked on small, mid size and larger scale apps. Github is the most important tools you can use to capture a potential employer's interest.
-
-## 1. Certification Checklist 
+## 1. Checklist 
 
 As employers read your resume and continue on to explore your Github and projects your goal is to make it shine and standout. Below we will get started with some Github must haves. 
 
